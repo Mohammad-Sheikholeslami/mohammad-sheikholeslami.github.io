@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Ph.D. in Electrical and Computer Engineering
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -191,6 +191,6 @@ papers:
 
 
 
-I am a Ph.D. candidate at the University of Toronto. In my work, my goal is to enable reliable, privacy-preserving, and cost-effective advanced machine learning services for end-users, connecting people and systems across the globe. My research focuses on designing such systems across connected infrastructures, from edge IoT devices to large-scale data centers. It brings together three core areas: **trustworthy distributed learning**, **next-generation networks**, and **advanced machine learning models**.
+I earned my Ph.D. in Electrical and Computer Engineering from the University of Toronto. My work focuses on enabling reliable, privacy-preserving, and cost-effective advanced machine learning services for end-users, connecting people and systems across the globe. My research explores these systems across connected infrastructures, from edge IoT devices to large-scale data centers, bringing together three core areas: **trustworthy distributed learning**, **next-generation networks**, and **advanced machine learning models**.
 
 
